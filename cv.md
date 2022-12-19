@@ -1,4 +1,10 @@
-# Roman Testov
+###
+###
+# ССЫЛКА НА CV#3: https://galoperidola.github.io/rsschool-cv/ 
+---
+Извиняюсь за неудобство)
+---
+---
 ## Contacts:
 * **Telegram:** [*@krabljabrja*](https://t.me/krabljabrja "Yes, telegram")
 * **GitHub:** [*@galoperidola*](https://github.com/Galoperidola "GitHub")
