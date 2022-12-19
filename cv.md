@@ -1,7 +1,7 @@
 
 ---
 
-# ССЫЛКА НА CV#3. CV Cross-Check: [https://galoperidola.github.io/rsschool-cv/](https://galoperidola.github.io/rsschool-cv/)
+# Ссылка на CV#3 Cross-Check: [https://galoperidola.github.io/rsschool-cv/](https://galoperidola.github.io/rsschool-cv/)
 
 ## !!!!!
 
