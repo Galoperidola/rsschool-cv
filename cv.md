@@ -1,10 +1,13 @@
 ###
 ###
-# ССЫЛКА НА CV#3: https://galoperidola.github.io/rsschool-cv/ 
-!!!
+# ССЫЛКА НА CV#3: [https://galoperidola.github.io/rsschool-cv/](https://galoperidola.github.io/rsschool-cv/)
+
+## !!!
+
 ---
-Извиняюсь за неудобство)
----
+
+## Извиняюсь за неудобство)
+
 ---
 ## Contacts:
 * **Telegram:** [*@krabljabrja*](https://t.me/krabljabrja "Yes, telegram")
